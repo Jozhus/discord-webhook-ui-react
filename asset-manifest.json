@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/discord-webhook-ui-react/static/js/main.63542e16.chunk.js",
-    "main.js.map": "/discord-webhook-ui-react/static/js/main.63542e16.chunk.js.map",
+    "main.js": "/discord-webhook-ui-react/static/js/main.2be55dd5.chunk.js",
+    "main.js.map": "/discord-webhook-ui-react/static/js/main.2be55dd5.chunk.js.map",
     "runtime-main.js": "/discord-webhook-ui-react/static/js/runtime-main.4c74fd4f.js",
     "runtime-main.js.map": "/discord-webhook-ui-react/static/js/runtime-main.4c74fd4f.js.map",
     "static/css/2.95f25948.chunk.css": "/discord-webhook-ui-react/static/css/2.95f25948.chunk.css",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.4c74fd4f.js",
     "static/css/2.95f25948.chunk.css",
     "static/js/2.ec50f630.chunk.js",
-    "static/js/main.63542e16.chunk.js"
+    "static/js/main.2be55dd5.chunk.js"
   ]
 }
