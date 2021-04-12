@@ -14,7 +14,7 @@ class App extends React.Component {
   sendMessage(message) {
     axios({
       method: "POST",
-      url: "https://discord.com/api/webhooks/786043983918792724/p9QgDmKG7eAlYNHhjgV5Vc6-4n9jB4Lm7Yc6Pc6FpYvsY3aBCb4XZjEHR_JU7KTlhkRd",
+      url: "https://discord.com/api/webhooks/heh",
       data: {
         content: message
       }
